@@ -1,0 +1,7 @@
+.tile__inner{
+ background-color: yellow; 
+}
+
+.tiles--title-wrap .tile__header h2{
+ color: red;
+}
